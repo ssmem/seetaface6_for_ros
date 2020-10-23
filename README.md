@@ -1,5 +1,5 @@
 # seetaface6_for_ros
-#Python
+## Python
 ```
 add
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/seetaFace6Python/seetaface/lib/ubuntu
@@ -21,7 +21,7 @@ sys.path.remove('/opt/ros/kinetic/lib/python2.7/dist-packages')
 
 
 
-#C++
+## C++
 ```
 catkin_ws
     src
